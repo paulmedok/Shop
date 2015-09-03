@@ -1,0 +1,7 @@
+#include "stdafx.h"
+#include "BaseFactory.h"
+#include "AliveFactory.h"
+#include "ToolsFactory.h"
+#include "BaseText.h"
+#include "Balance.h"
+#include "Shop.h"
